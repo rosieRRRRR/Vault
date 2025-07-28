@@ -191,7 +191,41 @@ address:          tb1p4nmsd8eyv9p7vmhdjjgrksdcy0a8eyqspml9c4p5pq0l4d7eqjzqdqjdy7
 control_block = <leaf_version (0xc0)> || <internal_pubkey> || <merkle_path (empty)>
 ```
 
+
+
+### **Further Epoch Clock related reading**
+
+**Epoch Clock**
+
+A deterministic, decentralized time standard for on-chain contract enforcement  
+
+https://github.com/rosieRRRRR/The-Epoch-Clock 
+
+
+
+
+**Epoch Clock BitVM Integration**
+
+This is a proposed integration of the Epoch Clock and BitVM. Trustless, time-aware covenant coordination on Bitcoin Layer 1. Combines a deterministic on-chain Epoch Clock with BitVM’s logic proving framework for enforceable spending conditions using Taproot scripts and PSBTs — all without oracles, soft forks, or new opcodes.
+
+https://github.com/rosieRRRRR/CovenantClock 
+
+
+
+
+**Epoch Clock Rust Iplementation**
+
+This is a proposed integration of the Epoch Clock and BitVM using Rust. Trustless Rust implementation of Bitcoin epoch logic for time-based contract enforcement and BitVM coordination.
+
+https://github.com/rosieRRRRR/Epoch-Clock-Rust-Implementation-
+
+
+
+
 ## License
 MIT License. No warranty. Use at your own risk.
+
 **Author**
 Designed by Rosie, 2025
+
+https://github.com/rosieRRRRR
